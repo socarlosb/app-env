@@ -37,7 +37,7 @@ All files can, and should be reviewed for each project case! But at least the fi
 
 ## How to use?
 
-Just clone the repo `git clone yyy your-app-folder` and start your project!
+Just clone the repo `git clone https://github.com/socarlosb/app-env.git your-app-folder` and start your project!
 
 ## Remind Myself
 
